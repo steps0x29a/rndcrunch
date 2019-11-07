@@ -1,5 +1,5 @@
 # rndcrunch
-A simple wordlist generator that generates random keys
+A simple wordlist generator that generates random keys from a given charset (with a few options).
 
 # Installation
 Simply install python3, there should be no additional steps required.
