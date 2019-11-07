@@ -31,3 +31,5 @@ Have fun!
 # Acknowledgement
 I shamelessly 'borrowed' the name from [crunch](https://sourceforge.net/projects/crunch-wordlist/).
 
+# Note
+Remember: only mess around with your own network!
